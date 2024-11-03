@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthenticatorFirebaseFirestore</string>
+    <string name="default_web_client_id">658806010111-ame78iab9bpr00ji6e13hoknrl5ealii.apps.googleusercontent.com</string>
+    <string name="title_activity_main2">AppFirebaseFirestore</string>
+</resources>

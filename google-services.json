@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658806010111",
+    "project_id": "authenticatorfirebasefirestore",
+    "storage_bucket": "authenticatorfirebasefirestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658806010111:android:6fa573e9fd90efae3e1cca",
+        "android_client_info": {
+          "package_name": "com.example.authenticatorfirebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658806010111-7khu7ge486tben48g61k0njd698qs444.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticatorfirebasefirestore",
+            "certificate_hash": "22cb3cfb250b80941137c7106d8deaf9b78a9221"
+          }
+        },
+        {
+          "client_id": "658806010111-ame78iab9bpr00ji6e13hoknrl5ealii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRMtVKMjfcn_uLYAqav1PaDHHjvXUt5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658806010111-ame78iab9bpr00ji6e13hoknrl5ealii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
